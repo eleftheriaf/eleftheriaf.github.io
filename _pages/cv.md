@@ -53,7 +53,7 @@ EXPERIENCE
   * Published work accepted into ACM MobiHoc proceedings.
 
 * Undergraduate Researcher — Rice University (05/2022 – 05/2023)
-  * ML + oncology: estimating evolutionary fitness parameters of phylogenetic cancer trees.
+  * ML + Oncology: estimating evolutionary fitness parameters of phylogenetic cancer trees.
   * Designed simulator for tumor phylogenetic modeling.
 
 * Undergraduate Teaching Assistant — Cornell University (01/2022 – 05/2022)
