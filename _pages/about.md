@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Γειά σας! I am Ελευθερία (Eleftheria) but feel free to call me Ellie! I am a first-year PhD student at University of Michigan studying theoretical cryptography, and more broadly, theoretical computer science (TCS). I love math so much I learned Greek (kidding!). I am also a personal trainer and cat mom. Feel free to ask me about my research, my cat (Κούκλα), or anything exercise related!
+Γειά σας! I am Ελευθερία (Eleftheria) but feel free to call me Ellie! I am a first-year PhD student at University of Michigan astudying theoretical cryptography, and more broadly, theoretical computer science (TCS). I am advised by Dr. Ke Wu. I love math so much I learned Greek (kidding!). I am also a personal trainer and cat mom. Feel free to ask me about my research, my cat (Κούκλα), or anything exercise related!
 
 
 
