@@ -23,7 +23,7 @@ repository               : "eleftheriaf/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_3529.jpg"
+  avatar           : "IMG_3529_new.jpg"
   name             : "Eleftheria Fassman"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in TCS at UMich"
