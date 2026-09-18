@@ -41,7 +41,7 @@ EXPERIENCE
 
 * Graduate Teaching Assistant — Cornell University (08/2024 – 05/2025)
   * TA for CS 4830/5830/6830 – Cryptography.
-  * Held weekly office hours to reinforce course content.
+  * Designed assignments, organized TAs, held lecture-style office hours.
   * Supported course administration to ensure an enriching student experience.
 
 * Visiting Graduate Researcher — Memorial Sloan Kettering Cancer Center (05/2024 – 08/2024)
