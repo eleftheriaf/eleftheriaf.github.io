@@ -61,7 +61,7 @@ EXPERIENCE
   * Designed simulator for tumor phylogenetic modeling.
 
 * Undergraduate Teaching Assistant — Cornell University (01/2022 – 05/2022)
-  * TA for CS 4820/5820. 
+  * TA for CS 4820/5820 – Introduction to Analysis of Algorithms. 
   * Supported course logistics, graded, and held weekly office hours.
 
 * Data Science Intern — MassMutual (06/2021 – 08/2021)
