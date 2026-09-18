@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/candidacy-talk
 venue: "University of Michigan"
 date: 2026-09-11
-location: "Ann Arbor, MI"
+location: "Ann Arbor, MI" 
 ---
 
 On pricing blockchain gossip through bandwidth fee mechanisms.
