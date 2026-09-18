@@ -34,7 +34,7 @@ EXPERIENCE
   * Structure ~12-week research projects.
 
 * Graduate Student Researcher — Cornell University (08/2023 – 05/2025)
-  * Thesis research for MS in CS.
+  * Thesis research for MS in CS. 
   * Cryptography research focused on universal encryption schemes using combiners.
   * Working with secret-key and public-key encryption.
   * Advised by Dr. Noah Stephens-Davidowitz.
