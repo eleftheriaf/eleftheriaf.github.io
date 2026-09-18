@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/MS-talk
 venue: "Cornell University"
 date: 2025-04-24
-location: "Ithaca, NY, USA"
+location: "Ithaca, NY"
 ---
 
 On universal secret-key and public-key encryption using combiners.
