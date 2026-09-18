@@ -2,7 +2,7 @@
 title: "M.S. Thesis Defense"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/MS-talk
 venue: "Cornell University"
 date: 2025-04-24
 location: "Ithaca, NY, USA"
