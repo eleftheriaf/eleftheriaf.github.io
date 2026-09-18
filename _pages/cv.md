@@ -19,11 +19,15 @@ EDUCATION
 
 EXPERIENCE
 ======
+* Graduate Student Instructor — University of Michigan (08/2026 - Present)
+  * Sole GSI for EECS 475 – Introduction to Cryptography.
+  * Held lecture-style discussion sections, weekly office hours, supported course instructor and students.
+ 
 * Graduate Student Researcher — University of Michigan (08/2025 - Present)
   * Thesis research for Ph.D. in CS.
-  * Theoretical cryptography research focused on transaction fee mechanism design.
+  * Theoretical cryptography research focused on blockchain mechanism design.
   * Advised by Dr. Ke Wu.
-
+ 
 * Research Advisor — Lumiere Education (02/2024 – Present)
   * Mentor high school students conducting computer science research.
   * Guide research and paper writing for publication-level work.
@@ -36,16 +40,16 @@ EXPERIENCE
   * Advised by Dr. Noah Stephens-Davidowitz.
 
 * Graduate Teaching Assistant — Cornell University (08/2024 – 05/2025)
-  * TA for CS 4830/6830 – Cryptography.
-  * Hold weekly office hours to reinforce course content.
-  * Support course administration to ensure an enriching student experience.
+  * TA for CS 4830/5830/6830 – Cryptography.
+  * Held weekly office hours to reinforce course content.
+  * Supported course administration to ensure an enriching student experience.
 
 * Visiting Graduate Researcher — Memorial Sloan Kettering Cancer Center (05/2024 – 08/2024)
   * Research in Dr. Kushal Dey’s lab.
   * Working on improving the DREAMwalk drug-repurposing framework using random walks on biomedical knowledge graphs.
 
 * Graduate Teaching Assistant — Cornell University (08/2023 – 05/2024)
-  * Head TA for CS 4820 – Introduction to Analysis of Algorithms.
+  * Head TA for CS 4820/5820 – Introduction to Analysis of Algorithms.
   * Designed assignments/exams, organized TAs, held lecture-style office hours.
 
 * Undergraduate Researcher — IUPUI (06/2023 – 08/2023)
@@ -57,7 +61,8 @@ EXPERIENCE
   * Designed simulator for tumor phylogenetic modeling.
 
 * Undergraduate Teaching Assistant — Cornell University (01/2022 – 05/2022)
-  * TA for CS 4820. Supported course logistics, grading, and weekly office hours.
+  * TA for CS 4820/5820. 
+  * Supported course logistics, graded, and held weekly office hours.
 
 * Data Science Intern — MassMutual (06/2021 – 08/2021)
   * Analyzed survivorship mortality policies using actuarial data.
