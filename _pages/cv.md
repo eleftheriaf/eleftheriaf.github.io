@@ -72,7 +72,7 @@ PAPERS AND PUBLICATIONS
 ======
 * Universal Secret-Key and Public-Key Encryption Using Combiners (M.S. Thesis)
   * [Here](/files/Cornell_University_Thesis_Template.pdf) is a copy of the thesis — 04/2024
-  * [Here](/files/Slides.pdf) is a copy of the slides for the talk — 04/2024
+  * [Here](/files/SlidesMS.pdf) is a copy of the slides for the talk — 04/2024
 
 * Evaluating the Impact of Noisy Point Clouds on Wireless Gesture Recognition Systems
   * [ACM MobiHoc Conference Proceedings](https://dl.acm.org/doi/10.1145/3565287.3617626) — 10/2023
