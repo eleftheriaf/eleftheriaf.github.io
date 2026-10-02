@@ -94,5 +94,5 @@ EXTRACURRICULARS
 ======
 * Personal Trainer — Crunch Fitness (08/2025 - Present)
 * Volunteering — Loaves and Fishes Soup Kitchen (10/2022 – 05/2025)
-* Marathon Runner — 3 races, Corning NY (10/2021 – Present)
+* Marathon Runner — 3 races, Corning NY (10/2021 – 10/2023)
 
