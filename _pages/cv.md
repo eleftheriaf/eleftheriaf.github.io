@@ -79,9 +79,9 @@ PAPERS AND PUBLICATIONS
 
 AWARDS
 ======
-* Teaching Assistant Excellence Award (Spring 2022, Fall 2023, Spring 2024)
-* Computer Science Degree Representative, Class of 2023
-* Dean’s List (5 semesters)
+* Teaching Assistant Excellence Award, Cornell University (Spring 2022, Fall 2023, Spring 2024)
+* Computer Science Degree Representative, Cornell University, Class of 2023
+* Dean’s List, Cornell University (5 semesters)
 * High School Valedictorian
 
 LANGUAGES
