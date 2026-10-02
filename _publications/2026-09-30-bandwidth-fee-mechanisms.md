@@ -2,9 +2,9 @@
 title: "Bandwidth Fee Mechanisms for Certified Transaction Dissemination"
 collection: publications
 category: conferences
-permalink: /publication/2026-12-01-bandwidth-fee-mechanisms
+permalink: /publication/2026-09-30-bandwidth-fee-mechanisms
 excerpt: This study develops bandwidth fee mechanisms for pricing threshold certified transaction dissemination before consensus.
-date: 2026-12-01
+date: 2026-09-30
 venue: 'WINE 2026 Conference Proceedings'
 slidesurl: 
 paperurl: '/files/Bandwidth_Fee_Mechanisms.pdf'
