@@ -8,6 +8,8 @@ date: 2026-09-11
 location: "Ann Arbor, MI"
 ---
 
-On pricing blockchain gossip through bandwidth fee mechanisms.
+On bandwidth fee mechanisms for certified transaction dissemination.
 
-[Here](/files/prelim-final-draft.pdf) is a copy of the slides for the talk
+[Here](/files/Bandwidth_Fee_Mechanisms.pdf) is a copy of the paper.
+
+[Here](/files/prelim-final-draft.pdf) is a copy of the slides for the talk.
