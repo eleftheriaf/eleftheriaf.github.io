@@ -5,7 +5,7 @@ category: other
 permalink: /publication/2025-05-01-universal-encryption-combiners
 excerpt: This thesis constructs universal secret-key and public-key encryption schemes using combiners, in the style of Levin's universal one-way function.
 date: 2025-05-01
-venue: 'M.S. Thesis, Cornell University'
+venue: 
 slidesurl: 
 paperurl: '/files/Cornell_University_Thesis_Template.pdf'
 bibtexurl: 
