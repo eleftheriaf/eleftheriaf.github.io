@@ -4,7 +4,8 @@ collection: talks
 type: "Talk"
 permalink: /talks/MS-talk
 venue: "Cornell University"
-date: 2025-04-24
+date: 2025-05-01
+date_display: "May 2025"
 location: "Ithaca, NY"
 ---
 
