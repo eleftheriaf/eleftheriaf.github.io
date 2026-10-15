@@ -1,12 +1,12 @@
 ---
 title: "Universal Secret-Key and Public-Key Encryption Using Combiners"
 collection: publications
-category: theses
+category: other
 permalink: /publication/2025-05-01-universal-encryption-combiners
 excerpt: This thesis constructs universal secret-key and public-key encryption schemes using combiners, in the style of Levin's universal one-way function.
 date: 2025-05-01
 venue: 'M.S. Thesis, Cornell University'
-slidesurl: '/files/SlidesMS.pdf'
+slidesurl: 
 paperurl: '/files/Cornell_University_Thesis_Template.pdf'
 bibtexurl: 
 citation: 
@@ -23,4 +23,4 @@ semantic security. We show that if there exists any encryption scheme that is ef
 the output of our combiner is also secure and efficient. By enumerating all possible polynomial-time encryption schemes and applying
 our construction, we obtain universal encryption schemes which are secure if and only if any such scheme exists.
 
-See the full thesis [here](/files/Cornell_University_Thesis_Template.pdf) and the slides from the defense [here](/files/SlidesMS.pdf).
+See the full thesis [here](/files/Cornell_University_Thesis_Template.pdf).
