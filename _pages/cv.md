@@ -70,7 +70,7 @@ EXPERIENCE
 
 PAPERS AND PUBLICATIONS
 ======
-* Bandwidth Fee Mechanisms for Certified Transaction Dissemination
+* Pricing Blockchain Gossip through Bandwidth Fee Mechanisms
   * [Here](/files/Bandwidth_Fee_Mechanisms.pdf) is a copy of the paper — 09/2026
   * [Here](/files/prelim-final-draft.pdf) is a copy of the slides for the talk — 09/2026
   * WINE 2026 Conference Proceedings (coming soon) — 12/2026

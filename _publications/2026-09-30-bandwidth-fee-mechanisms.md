@@ -1,5 +1,5 @@
 ---
-title: "Bandwidth Fee Mechanisms for Certified Transaction Dissemination"
+title: "Pricing Blockchain Gossip through Bandwidth Fee Mechanisms"
 collection: publications
 category: conferences
 permalink: /publication/2026-09-30-bandwidth-fee-mechanisms
